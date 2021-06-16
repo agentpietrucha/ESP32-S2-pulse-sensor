@@ -16,3 +16,6 @@
 * [Adafruit I2C FRAM](https://www.adafruit.com/product/1895)
 * [Pulse Sensor](https://pulsesensor.com/)
 
+
+![pulse sensor set-up](https://github.com/agentpietrucha/ESP32-S2-pulse-sensor/blob/main/images/pulse%20sensor.png)
+[Demo video](https://www.youtube.com/watch?v=e4UD9sDTRnk)
